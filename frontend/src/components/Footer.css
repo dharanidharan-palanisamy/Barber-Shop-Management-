@@ -1,0 +1,30 @@
+.footer {
+    background-color: #0e0e0f;
+    background-size: cover;
+    background-position: center;
+    padding: 2rem 0;
+    color: #f11414;
+    
+  }
+  
+  .footer-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .footer-list-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .contact-link {
+    color: #f31212;
+    text-decoration: none;
+  }
+  
+  .contact-link:hover {
+    text-decoration: underline;
+  }
